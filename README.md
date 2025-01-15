@@ -54,8 +54,8 @@ ollama run llama3.2
 
 ### 3. Clone and Setup
 ```bash
-git clone https://github.com/yourusername/python-llm.git
-cd python-llm
+https://github.com/lathifshaik/Python-LLM-Assistant.git
+cd Python-LLM-Assistant
 pip install -r requirements.txt
 ```
 
