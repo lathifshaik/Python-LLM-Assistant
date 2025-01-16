@@ -154,11 +154,7 @@ exit
 ## 🏗️ Project Structure
 ```
 python-llm/
-├── assistant.py        # 🎯 Main assistant
-├── utils/
-│   ├── memory.py      # 🧠 Memory management
-│   ├── retry.py       # 🔄 Retry mechanism
-│   └── typing.py      # ⌨️ Typing effects
+├── duckypy.py        # 🎯 assistant
 ├── requirements.txt    # 📦 Dependencies
 └── README.md          # 📚 Documentation
 ```
