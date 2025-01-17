@@ -27,7 +27,7 @@ If I had more time, I would expand the assistant to:
 - Incorporate feedback mechanisms for users to rate or refine responses.
 
 This project represents a significant learning experience and a practical demonstration of the potential for combining large language models with Python programming to create an intelligent, engaging assistant.
-"""
+
 
 
 ## ✨ Features
